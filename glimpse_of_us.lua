@@ -1,4 +1,4 @@
--- Sheet for Rondo Alla Turca by Wolfgang Amadeus Mozart
+-- Sheet for Glimpse of Us by Joji
 
 shared.stop = true -- stops the player at any time if true
 -- CONFIG:
